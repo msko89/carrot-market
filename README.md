@@ -31,3 +31,30 @@
   ```properties
   npx tailwindcss init -p
   ```
+
+<br/>
+<br/>
+
+## Prisma
+
+- Prisma 설치
+
+  ```properties
+  npm install -D prisma
+  ```
+
+  <br/>
+
+- config 파일 생성
+
+  - prisma 폴더
+  - .env 파일
+
+  <br/>
+
+  ```properties
+  npx prisma init
+  ```
+
+<br/>
+<br/>
